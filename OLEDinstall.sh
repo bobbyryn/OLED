@@ -6,7 +6,7 @@ set -e
 sudo apt-get install -y \
   git-core \
   python-setuptools \
-  python-imaging \
+  python-pil \
   python-dev \
   python-pip
   
